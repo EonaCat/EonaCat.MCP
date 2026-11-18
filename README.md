@@ -1,8 +1,5 @@
 # EonaCat.MCP Examples
 
-These independent projects use the `EonaCat.MCP` NuGet package, not a
-project reference. The package is not yet available on nuget.org.
-
 - **BasicServer** registers and executes an echo skill.
 - **FullServer** demonstrates greeting and counter skills.
 - **ClientExample** lists skills in a new in-memory registry; it does not
